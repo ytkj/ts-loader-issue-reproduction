@@ -79,7 +79,7 @@ console.log(__WEBPACK_IMPORTED_MODULE_0__sub__["default"]);
 /* 1 */
 /***/ (function(module, exports) {
 
-throw new Error("Module parse failed: D:\\dev\\ts-loader-issue-reproduction\\node_modules\\ts-loader\\index.js??ref--0-0!D:\\dev\\ts-loader-issue-reproduction\\sub.ts Unexpected token (2:22)\nYou may need an appropriate loader to handle this file type.\n| var COMPUTED_PROPERTY_NAME = 'message';\r\n| export default _a = {},\r\n|     _a[COMPUTED_PROPERTY_NAME] = 'foo',\r\n|     _a;\r");
+throw new Error("Module parse failed: D:\\dev\\ts-loader-issue-reproduction\\node_modules\\awesome-typescript-loader\\dist\\entry.js!D:\\dev\\ts-loader-issue-reproduction\\sub.ts Unexpected token (2:22)\nYou may need an appropriate loader to handle this file type.\n| var COMPUTED_PROPERTY_NAME = 'message';\r\n| export default _a = {},\r\n|     _a[COMPUTED_PROPERTY_NAME] = 'foo',\r\n|     _a;\r");
 
 /***/ })
 /******/ ]);

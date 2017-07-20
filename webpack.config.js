@@ -13,10 +13,11 @@ const baseConfig = {
         rules: [{
             test: /\.ts$/,
             use: [{
-                loader: 'ts-loader',
-                options: {
-                    logLevel: 'warn'
-                }
+                // loader: 'ts-loader',
+                // options: {
+                    // logLevel: 'warn'
+                // }
+                loader: 'awesome-typescript-loader',
             }]
         }]
     }
